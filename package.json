@@ -1,0 +1,22 @@
+{
+  "name": "rappi",
+  "version": "1.0.0",
+  "description": "Proyecto aplicación Rappi web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego-forero/Rappi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diego-forero/Rappi/issues"
+  },
+  "homepage": "https://github.com/diego-forero/Rappi#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
